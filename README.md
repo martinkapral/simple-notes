@@ -1,1 +1,1 @@
-# simple-notes
+https://martinkapral.github.io/simple-notes/
